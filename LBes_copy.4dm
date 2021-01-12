@@ -1,5 +1,5 @@
 //%attributes = {"lang":"en"} comment added and reserved by 4D.
-//LBes_copier (listboxNom_t;entitySel_o) -> txt
+//LBes_copy (listboxNom_t;entitySel_o) -> txt
 //$0 : contenu de la listbox entitySelection dans le presse papier
 // au format tab tab retour
 
