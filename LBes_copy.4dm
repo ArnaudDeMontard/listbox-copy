@@ -15,8 +15,6 @@ ASSERT:C1129(Count parameters:C259>1;Current method name:C684+" 2 paramètres at
 $lb_t:=$1
 $entitySel_o:=$2
 
-$prog_l:=UI_progressStart(-1;"Copie en cours")
-
 LISTBOX GET OBJECTS:C1302(*;$lb_t;$objet_at)
 $formule_c:=New collection:C1472
 For ($i_l;1;Size of array:C274($objet_at);3)
